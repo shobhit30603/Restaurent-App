@@ -1,0 +1,102 @@
+{
+  "user": [
+    {
+      "name": "shobhit",
+      "email": "guptashobhit@gmail.com",
+      "password": "123@",
+      "id": 1
+    },
+    {
+      "name": "harshitt",
+      "email": "guptaharshit33@gmail.com",
+      "password": "1234@",
+      "id": 2
+    },
+    {
+      "name": "sgomm",
+      "email": "guptashobhit303@gmail.com",
+      "password": "err",
+      "id": 3
+    },
+    {
+      "name": "minakshi",
+      "email": "minkakshi2203@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Minak",
+      "email": "guptashobhit603@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "hhobhit",
+      "email": "guptashobhit3603@gmail.com",
+      "password": "123@",
+      "id": 6
+    },
+    {
+      "name": "Shobhit",
+      "email": "guptashobhit30603@gmail.com",
+      "password": "123@132",
+      "id": 7
+    },
+    {
+      "name": "Usha Gupta",
+      "email": "guptausha123@",
+      "password": "1234@",
+      "id": 8
+    },
+    {
+      "name": "Shobhit  Gupta",
+      "email": "gupta@123",
+      "password": "12345@",
+      "id": 9
+    },
+    {
+      "name": "Harshit",
+      "email": "Harshit123@gmail.com",
+      "password": "harshit@123",
+      "id": 10
+    }
+  ],
+  "restaurent": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": "1111",
+      "address": "Tijara"
+    },
+    {
+      "id": 3,
+      "name": "Kfc",
+      "contact": "1113",
+      "address": "Delhi"
+    },
+    {
+      "name": "star",
+      "address": "Alwar",
+      "contact": "1116",
+      "id": 6
+    },
+    {
+      "name": "Lipika",
+      "address": "Tijara",
+      "contact": "1117",
+      "id": 7
+    },
+    {
+      "name": "ABC",
+      "address": "Saket",
+      "contact": 1115,
+      "id": 8
+    },
+    {
+      "name": "AAsha wala",
+      "address": "Tijara",
+      "contact": "1118",
+      "id": 9
+    }
+  ]
+}
